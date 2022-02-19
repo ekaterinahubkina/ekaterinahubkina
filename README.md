@@ -18,6 +18,10 @@
 ###  Contacts: 👀
 Telegram: @kate_hubkina  
 E-mail: ekaterinahubkina@yandex.by
+***
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterinahubkina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ekaterinahubkina)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ekaterinahubkina/ekaterinahubkina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
