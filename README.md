@@ -1,15 +1,17 @@
 # Hi there 👋 I'm Kate Hubkina! 
-### I'm a Front-end developer 💻❤️
+### I'm a Front-end developer 💻
 
-- 🌱 I’m currently learning Node.js and Data Structures & Algorithms
-- 💞️ I’m looking to collaborate on real projects
+❤️ I'm passionate about JS and writing code  
+🌱 I’m currently learning Node.js at Yandex Practicum  
+💞️ I’m looking to collaborate on real projects and create intuitive, efficient and user-friendly interfaces  
 
-###  My skills:
+###  My skills: ⚒️
 ***
 * HTML
 * CSS
 * JS
 * React.js
+* Git
 ***
 
 
