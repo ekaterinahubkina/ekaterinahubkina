@@ -11,6 +11,8 @@
 * CSS
 * JS
 * React.js
+* Express.js
+* MongoDB
 * Git
 ***
 
