@@ -2,7 +2,7 @@
 ### I'm a Front-end developer 💻
 
 ❤️ I'm passionate about JS and writing code  
-🌱 I’m currently learning Node.js at Yandex Practicum  
+🌱 I’m currently learning Redux  
 💞️ I’m looking to collaborate on real projects and create intuitive, efficient and user-friendly interfaces  
 
 ###  My skills: ⚒️
@@ -11,7 +11,7 @@
 * CSS
 * JS
 * React.js
-* Express.js
+* Node.js (Express)
 * MongoDB
 * Git
 ***
