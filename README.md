@@ -2,7 +2,7 @@
 ### I'm a Front-end developer 💻
 
 ❤️ I'm passionate about JS and writing code  
-🌱 I’m currently learning Redux  
+🌱 I’m currently learning TypeScript and Redux  
 💞️ I’m looking to collaborate on real projects and create intuitive, efficient and user-friendly interfaces  
 
 ###  My skills: ⚒️
